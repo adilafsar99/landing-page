@@ -38,3 +38,7 @@ a {
 #info-text {
     text-align: center;
 }
+
+.info-section {
+    display: flex;
+}
