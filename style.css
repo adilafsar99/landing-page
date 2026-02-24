@@ -28,3 +28,9 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
