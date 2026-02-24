@@ -77,3 +77,15 @@ a {
 #testifier {
     margin-left: auto;
 }
+
+.cta-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-button {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
