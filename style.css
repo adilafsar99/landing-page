@@ -21,6 +21,22 @@ p {
     margin: 0;
 }
 
+button {
+   font-size: 15px;
+    color: #fff;
+    background-color: #3882f6;
+    font-weight: 400;
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    width: 100px;
+    border-style: none; 
+}
+
+button:hover {
+    cursor: pointer;
+}
+
 .hero-and-header {
     background-color: #1f2937;
 }
@@ -75,19 +91,6 @@ p {
     color: #fff;
     background-color: #e5e7eb71;
 }
-
-button {
-   font-size: 15px;
-    color: #fff;
-    background-color: #3882f6;
-    font-weight: 400;
-    margin-top: 10px;
-    padding: 8px;
-    border-radius: 8px;
-    width: 100px;
-    border-style: none; 
-}
-
 
 #info-text {
     font-size: 36px;
@@ -150,15 +153,11 @@ button {
     font-weight: 500;
 }
 
-.section-four {
-    padding: 40px;
-}
-
 .cta-section {
     display: flex;
     justify-content: space-between;
-    width: 80%;
-    margin: 0 auto;
+    width: 70%;
+    margin: 40px auto;
     padding: 30px;
     border-radius: 12px;
     background-color: #3882f6;
