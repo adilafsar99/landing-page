@@ -159,6 +159,17 @@ button {
     background-color: #3882f6;
 }
 
+#cta-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #f9faf8;
+    margin-bottom: 3px;
+}
+
+#cta-text {
+    color: #e5e7eb;
+}
+
 .cta-button {
     flex-basis: 50%;
     display: flex;
