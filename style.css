@@ -71,8 +71,8 @@ a {
     color: #e5e7eb;
 }
 
-#signup-button {
-    font-size: 15px;
+button {
+   font-size: 15px;
     color: #fff;
     background-color: #3882f6;
     font-weight: 400;
@@ -80,8 +80,9 @@ a {
     padding: 8px;
     border-radius: 8px;
     width: 100px;
-    border-style: none;
+    border-style: none; 
 }
+
 
 #info-text {
     font-size: 36px;
@@ -159,6 +160,10 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#cta-button {
+    border: 2px solid #fff;
 }
 
 .footer {
