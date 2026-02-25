@@ -17,6 +17,10 @@ a {
     color: #e5e7eb;
 }
 
+p {
+    margin: 0;
+}
+
 .hero-and-header {
     background-color: #1f2937;
 }
@@ -59,7 +63,6 @@ a {
 #hero-subtext {
     font-size: 18px;
     color: #e5e7eb;
-    margin: 0;
 }
 
 .hero-image {
