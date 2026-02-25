@@ -79,17 +79,19 @@ a {
 }
 
 .testimonial-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
     padding: 20px 0;
+    background-color: #e5e7eb;
+}
+
+#testimony {
     width: 80%;
-    margin: 0 auto;
+    margin: auto;
 }
 
 #testifier {
-    margin-left: auto;
+    width: 80%;
+    margin: auto;
+    text-align: end;
 }
 
 .cta-section {
@@ -97,6 +99,9 @@ a {
     justify-content: space-between;
     width: 80%;
     margin: 0 auto;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #3882f6;
 }
 
 .cta-button {
