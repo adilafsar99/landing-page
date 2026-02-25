@@ -1,2 +1,2 @@
 # landing-page
-My first attempt at creating a proper web page layout since forever...
+It took me two days but I finally finished it, to the best of my current abilities. It's not responsive or anything because I haven't relearned media queries yet. But atleast I am no longer as puzzled by flexbox when I first learned web development. Initially I used divs everywhere because I wasn't sure how flexbox would interact with text divs but it turns out that it works just fine.
